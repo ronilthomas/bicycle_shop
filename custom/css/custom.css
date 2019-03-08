@@ -1,0 +1,60 @@
+form{
+	margin: auto;
+	width: 300px;
+	border: 2px solid grey;
+	border-radius: 8px;
+	padding: 10px;
+}
+
+.list-group-item{
+	display: inline-block;
+	padding: 0.75rem 1.25rem;
+	margin-bottom: -1px;
+	background-color: transparent;
+	border: none;
+}
+
+#registerlink{
+	margin: 30%;
+}
+
+#loginlink{
+	margin: 40%;
+}
+
+a{
+	color: white;
+}
+
+a:hover {
+     color: black; 
+     text-decoration: none; 
+}
+
+#mod{
+	width: 330px;
+	/*background-color: yellow;*/
+}
+#modbody{
+	border: 2px solid black;
+	padding-left: 200px;
+}
+
+.bikedisp{
+	margin: 20px;
+	background-color: grey; 
+	height: 300px; 
+	display: inline-block; 
+	width: 29%;
+	border-radius: 5px;
+}
+
+.bikedisp_image{
+	padding: 5%;
+}
+
+.navstuff{
+	display: inline;
+	margin-right: 7%;
+	margin-left: 7%;
+}
