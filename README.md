@@ -14,3 +14,5 @@ Security features for the Web Application are as follows:
 * Parameterized queries to avoid SQL Injection
 * Input filtering to remove special characters
 * Session Management to authorize users
+* Salting and hashing to secure passwords in the database
+* Password and username requirements with regular expessions
